@@ -1,4 +1,4 @@
-import { c as createContext, R as RouterContextProvider, a as createRequestHandler$1, b as build } from "./assets/server-build-DdmyzcZz.js";
+import { c as createContext, R as RouterContextProvider, a as createRequestHandler$1, b as build } from "./assets/server-build-D6y-Xo8G.js";
 function createNetlifyRequestHandler({
   build: build2,
   mode,
