@@ -1,0 +1,1 @@
+import{p as t}from"./chunk-EPOLDU6W-DI_FKu8q.js";function l(e){return t.jsx("div",{className:"w-full items-left justify-center",children:t.jsx("h1",{className:"text-red text-3xl font-bold",children:e.text})})}export{l as P};
