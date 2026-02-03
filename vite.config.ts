@@ -11,5 +11,5 @@ export default defineConfig({
     tsconfigPaths(), 
     netlifyReactRouter({ edge: true })
   ],
-  base: "/cutie-cafe"
+  base: "/"
 });
