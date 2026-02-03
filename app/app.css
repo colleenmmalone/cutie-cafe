@@ -7,9 +7,19 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-[#f1e3ff] ;
+  @apply text-[#40155f] ;
 
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
+
   }
+}
+
+
+div.hero-splash{
+  background-image: url('./assets/splash.jpg');
+    /* background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;   */
 }
