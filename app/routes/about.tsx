@@ -1,4 +1,3 @@
-import { Link } from "react-router";
 import type { Route } from "./+types/about";
 import { PageTitle } from "~/components/pagetitle/pagetitle";
 import { Card } from "~/components/card/card";
